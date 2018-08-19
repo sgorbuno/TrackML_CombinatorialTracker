@@ -4,7 +4,6 @@ Below you can find a outline of how to reproduce my solution for the TrackML com
 If you run into any trouble with the setup/code or have any questions please contact me at sergey.gorbuov.32@gmail.com
 
 #ARCHIVE CONTENTS
-
 Makefile            : file which steers the compilation
 *.cxx *.h           : reconstruction code
 analysis/*.cxx/*.h  : additional code which is used to analyse the data
