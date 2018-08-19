@@ -1,3 +1,4 @@
 ./analysis
 ./data
 ./data/train_100_events
+./doc
