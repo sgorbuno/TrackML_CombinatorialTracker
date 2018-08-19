@@ -1,11 +1,5 @@
 
-/*
-  TNtuple *nt = (TNtuple*) gDirectory->FindObjectAny("edgeHits");
-  "part:nhits:pt:p:w:side:x:y:z:r"
-  TNtuple *nt = (TNtuple*) gDirectory->FindObjectAny("fitHits");
-"part:nhits:pt:p:w:fittype:type:x:y:z:r:du:dv:dz:dr:fitpt");
-TH1F *h = (TH1F*) gDirectory->FindObjectAny("weights");
- */
+
 
 #include "Tracker.h"
 #include "TString.h"
