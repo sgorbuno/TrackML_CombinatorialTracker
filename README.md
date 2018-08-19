@@ -30,7 +30,7 @@ all the places in the code where TNtuple and TFile classes are used.
 
 
 #DATA SETUP (assumes the [Kaggle API](https://github.com/Kaggle/kaggle-api) is installed)  
-# below are the shell commands used in each step, as run from the top level directory  
+ below are the shell commands used in each step, as run from the top level directory  
 
 mkdir -p data/  
 cd data/  
@@ -40,7 +40,7 @@ unzip train_sample.zip
 unzip test.zip  
 
 #DATA PROCESSING  
-# The train/predict code will also call this script if it has not already been run on the relevant data.  
+ The train/predict code will also call this script if it has not already been run on the relevant data.  
 
 1. specify the path to the data and N of events to process in reconstruction.cxx file.   
 By default, it is "data/train_100_events"  
